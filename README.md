@@ -3,8 +3,7 @@ getWeixinCode and getQQCode 获取微信授权和qq授权的中转页
 
 > 假设域名是 www.Jrrr.com
 
-## 使用
-﻿## 微信授权地址
+## 微信授权地址
 ```
 https://www.Jrrr.com/get-weixin-code.html?appid=appid&scope=snsapi_userinfo&state=state&redirect_uri=uri
 ```
